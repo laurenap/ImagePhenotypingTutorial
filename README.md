@@ -1,6 +1,6 @@
 
   
-The <a href="http://github.com/spujol/ImagePhenotypingTutorial/blob/master/ImagePhenotypingTutorial_SoniaPujol.pdf" target="_blank"> ImagePhenotypingTutorial </a> is an introduction to brain tumor segmentation and image phenotyping in 3D Slicer.
+The <a href="http://spujol.github.io/ImagePhenotypingTutorial/blob/master/ImagePhenotypingTutorial_SoniaPujol.pdf" target="_blank"> ImagePhenotypingTutorial </a> is an introduction to brain tumor segmentation and image phenotyping in 3D Slicer.
   
 
 Author: Sonia Pujol, PhD, Director of 3D Slicer Training & Education 
