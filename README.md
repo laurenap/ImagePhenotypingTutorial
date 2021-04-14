@@ -8,7 +8,7 @@ Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical 
 
 Materials
 * Software: [3D Slicer release version 4.10](https://download.slicer.org/)
-* Dataset: [Meningioma dataset](https://spujol.github/io/ImagePhenotypingTutorial/Meningioma.nrrd)
+* Dataset: [Meningioma dataset](https://www.dropbox.com/s/h1fmvnass8nbg7b/Meningioma.nrrd?dl=1)
 
 
 
